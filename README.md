@@ -2,7 +2,7 @@
 
  - Estudande de `Ciencia da Computacão`
  - Buscando atuar como `perito criminal`
- - Atualmente aprofundando meus conhecimentos em `algoritmos e  redes e SQL `
+ - Atualmente aprofundando meus conhecimentos em `redes e SQL`
   
   ## Tecnologias e Ferramentas
 
